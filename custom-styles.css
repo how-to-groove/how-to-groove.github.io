@@ -9,3 +9,8 @@
 .markdown_body h1, h2, h3 {
   font-family: ui-sans-serif, sans-serif;
 }
+
+a {
+    color: #557;
+    text-decoration: underline;
+}
