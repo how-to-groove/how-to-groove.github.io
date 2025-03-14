@@ -1,5 +1,6 @@
 .markdown-body p {
   font-family: Georgia, ui-serif, serif;
+  font-size: 18px
 }
 
 .markdown-body hr {
@@ -8,6 +9,10 @@
     margin: 24px 0;
     background-color: white;
     border: 0;
+}
+
+.container-lg {
+    max-width: 800px;
 }
 
 hr:after {
