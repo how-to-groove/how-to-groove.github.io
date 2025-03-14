@@ -1,5 +1,7 @@
 # How to Quint
 
+![2024-12-18_143534](https://github.com/user-attachments/assets/2292bc7c-513d-4567-aaae-86a158f86552)
+
 ## Table of Contents
 1. [Introduction](#introduction)
 1. [Count the Beat](#count-the-beat)
