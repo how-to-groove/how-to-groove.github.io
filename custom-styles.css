@@ -6,11 +6,11 @@
   font-size: 18px
 }
 
-.markdown_body h2, h3 {
+.markdown_body h1, h2, h3 {
   font-family: ui-sans-serif, sans-serif;
 }
 
-.markdown_body h1 {
+.title-header {
     text-align: center;
     font-size: 64px;
     font-family: 'Brush Script MT', cursive;
