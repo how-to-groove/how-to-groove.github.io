@@ -10,7 +10,21 @@
   font-family: ui-sans-serif, sans-serif;
 }
 
+.markdown-body hr {
+    height: .25em;
+    padding: 0;
+    margin: 24px 0;
+    border: 0;
+}
+
 a {
     color: #557;
     text-decoration: underline;
+}
+
+hr::after {
+    display: block;
+    text-align: center;
+    content: '***';
+    font: 1.5rem/1.6 Georgia, ui-serif, serif;
 }
