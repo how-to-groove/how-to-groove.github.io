@@ -11,10 +11,8 @@
 }
 
 .markdown-body hr {
-    height: .25em;
-    padding: 0;
-    margin: 24px 0;
-    border: 0;
+  background-color: #fff;
+  margin: 64px 0;
 }
 
 a {
@@ -34,4 +32,8 @@ hr::after {
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+}
+
+hr, .rule {
+    overflow: visible;
 }
