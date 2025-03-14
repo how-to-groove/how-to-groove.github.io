@@ -28,3 +28,10 @@ hr::after {
     content: '***';
     font: 1.5rem/1.6 Georgia, ui-serif, serif;
 }
+
+.trust-me-bro {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
