@@ -1,0 +1,10 @@
+    .markdown-body p {
+      font-family: Georgia, ui-serif, serif;
+    }
+
+    hr:after {
+      display: block;
+      text-align: center;
+      content: '***';
+      font-family: Georgia, ui-serif, serif;
+    }
