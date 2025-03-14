@@ -1,23 +1,11 @@
-.markdown-body p {
+.markdown-body {
   font-family: Georgia, ui-serif, serif;
+}
+
+.markdown-body p {
   font-size: 18px
 }
 
-.markdown-body hr {
-    height: .25em;
-    padding: 0;
-    margin: 24px 0;
-    background-color: white;
-    border: 0;
-}
-
-.container-lg {
-    max-width: 800px;
-}
-
-hr:after {
-  display: block;
-  text-align: center;
-  content: '***';
-  font-family: Georgia, ui-serif, serif;
+.markdown_body h1, h2, h3 {
+  font-family: ui-sans-serif, sans-serif;
 }
